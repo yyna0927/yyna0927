@@ -14,7 +14,7 @@
  <br/><br/>
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yyna0927&theme=tokyonight)]
- (https://github.com/yyna0927)
+
 
   <br/><br/>
  
