@@ -1,6 +1,8 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color:purple&height=300&section=header&text=WELCOME&fontSize=80&animation=fadeline&fontAlignV=38&desc=Yuna's%20GitHub%20Profile&descAlignY=70&descAlign=67)](https://github.com/yyna0927)
 
+<div align="center">
 ---
+
 ### Email
 yyouna0927@gmail.com
 ---
@@ -14,3 +16,5 @@ yyouna0927@gmail.com
 
 
 [![My trophy](https://github-profile-trophy.vercel.app/?username=yyna0927&theme=darkhub&column=4&margin-w=10&margin-h=10)](https://github.com/yyna0927)
+
+ </div>
