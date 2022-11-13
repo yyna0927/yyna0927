@@ -2,12 +2,11 @@
 
 <div align="center">
 
-<br/>
  
  ### Email
  yyouna0927@gmail.com
 
-
+<br/>
  [![Github stats](https://github-readme-stats.vercel.app/api?username=yyna0927&show_icons=true&theme=tokyonight)](https://github.com/yyna0927)
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yyna0927&theme=tokyonight)]
