@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**yyna0927/yyna0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color:purple&height=300&section=header&text=WELCOME&fontSize=80&animation=fadeline&fontAlignV=38&desc=Yuna's%20GitHub%20Profile&descAlignY=70&descAlign=67)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <Strong>Email</Strong>
+    <br>yyouna0927@gmail.com<br>
+
+
+![yuna's github stats](https://github-readme-stats.vercel.app/api?username=yyna0927&show_icons=true&theme=merko)
+
+</div>
