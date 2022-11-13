@@ -9,7 +9,7 @@
 
 <br/><br/>
  
- [![Github stats](https://github-readme-stats.vercel.app/api?username=yyna0927&show_icons=true&theme=tokyonight)](https://github.com/yyna0927)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=yyna0927&count_private=true&theme=dark)](https://github.com/yyna0927)
  
  <br/><br/>
 
